@@ -43,7 +43,6 @@ if __name__ == "__main__":
     csv_file = 'data/raw/Shakespeare_data.csv'
     processed_dir = 'data/processed'
     
-    # Загрузка данных
     df = load_data(csv_file)
     
     # Извлечение текста пьес
