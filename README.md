@@ -1,1 +1,1 @@
-# Rnn-text-transformer
+# text_generator
